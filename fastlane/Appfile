@@ -1,0 +1,8 @@
+app_identifier "org.cocoapods.Pods-DNA-App" # The bundle identifier of your app
+apple_id "alex@appscore.com.au" # Your Apple email address
+
+itc_team_id "430960" # iTunes Connect Team ID
+team_id "4B3C6S5ZC5" # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
